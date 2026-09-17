@@ -11,7 +11,7 @@ terminará en compra, usando el [Online Shoppers Purchasing Intention Dataset](h
 
 | Carpeta | Entregable | Algoritmo | Reporte |
 |---|---|---|---|
-| [`parte1_sin_framework/`](./parte1_sin_framework) | Implementación de una técnica de ML sin el uso de un framework | Árbol de decisión (ID3 adaptado a variables continuas, programado desde cero) | [PDF](./parte1_sin_framework/Árbol_de_decisión_sin_uso_de_framewrok.pdf) |
+| [`parte1_sin_framework/`](./parte1_sin_framework) | Implementación de una técnica de ML sin el uso de un framework | Árbol de decisión (ID3 adaptado a variables continuas, programado desde cero) | [PDF](./parte1_sin_framework/Arbol_de_decision_sin_framework.pdf) |
 | [`parte2_con_framework/`](./parte2_con_framework) | Uso de framework o biblioteca de ML para la implementación de una solución | Random Forest (`scikit-learn`) | [PDF](./parte2_con_framework/Random_Forest_Retro2_Mod2.pdf) |
 | [`parte3_desempenio_modelo/`](./parte3_desempenio_modelo) | Análisis y Reporte sobre el desempeño del modelo | Diagnóstico de bias/varianza y regularización sobre el Random Forest de la parte 2 | [PDF](./parte3_desempenio_modelo/Diagnostico_Regularizacion_Parte3.pdf) |
 
